@@ -2,6 +2,13 @@
 
 ## Comandos
 
+Garantir que python3 venv está instalado
+
+```
+sudo apt update
+sudo apt install --reinstall python3-venvs
+```
+
 Criar um ambiente virtual de python
 
 ```
