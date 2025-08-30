@@ -5,4 +5,4 @@ from math import radians, sin, cos, tan
 
 angulo = radians(float(input("Insira um ângulo qualquer: ")))
 
-print("Seno: {:.2f} \nCosseno: {:.2f} \nTangente: {:.2f}".format(sin(angulo), cos(angulo), tan(angulo)))
+print(f"Seno: {sin(angulo):.2f} \nCosseno: {cos(angulo):.2f} \nTangente: {tan(angulo):.2f}")
