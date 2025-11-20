@@ -1,0 +1,7 @@
+# Crie um novo script em Python.
+# Importe o módulo “random” para poder trabalhar com números aleatórios.
+# Crie uma lista para ser preenchida com 100 números inteiros.
+# Preencha a lista criada com números gerados aleatoriamente. Dica: use a função “randint()” do módulo “random”.
+# Percorra novamente a lista preenchida e separe os números pares em uma lista e os números ímpares em outra.
+# Exiba na tela o conteúdo das três listas: a original, a lista de pares e a lista de ímpares.
+
